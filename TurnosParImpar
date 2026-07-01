@@ -1,0 +1,10 @@
+// ejercicio turnos par o impar
+
+for (let i = 1; i < 21; i++){
+    if (i % 2 == 0){
+        console.log(`pedido ${i} -> Persona A`);
+    }
+    else {
+        console.log(`pedido ${i} -> Persona B`);
+    }
+}

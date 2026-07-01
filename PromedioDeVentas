@@ -1,0 +1,11 @@
+// ejercicio promedio de ventas
+
+let sumatotal = 0;
+let ventas = [120000,95000,150000,80000,200000];
+
+
+for( let i = 0; i <= ventas.length; i++){
+    
+
+    
+}
